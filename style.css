@@ -1,0 +1,58 @@
+
+h1:hover {
+   
+    color: rgb(73, 221, 36);
+    font-family:'Bradley Hand ITC';
+    font-style: bold;
+    font-size: xx-large;
+  
+}
+h1{
+    color: rgb(212, 31, 31);
+    font-family:'Bradley Hand ITC';
+    font-style: bold;
+    font-size: xx-large;
+  
+}
+a:link:hover{
+    color:rgb(28, 168, 82);
+}
+a:visited:hover{
+    color: rgb(72, 241, 227);
+}
+.menu{
+    margin-right: 30px;
+}
+.menu a{
+    margin-left: 20px;
+}
+h2 {
+   
+    color: rgb(186, 53, 247);
+    font-family:'kalam';
+    font-style: bold;
+    font-size: xx-large;
+}
+.heading{
+    background-image: url("bggg.jpg");
+}
+*{
+    border-radius:30px;
+
+}
+.origami{
+   
+   
+    background-color: lightcoral;
+    display:flex ;
+    justify-content: space-evenly;
+    
+    background-image: url("304658.jpg");
+     font-family: fantasy;
+    flex-wrap: wrap;
+    
+}
+.img:hover{
+    opacity: 0.5;
+
+}
